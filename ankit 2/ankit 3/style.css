@@ -1,0 +1,17 @@
+div{
+    background-color: blue;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    box-shadow: 2px 2px 5px;
+
+
+
+
+}
+*{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+    text-decoration: none;
+}

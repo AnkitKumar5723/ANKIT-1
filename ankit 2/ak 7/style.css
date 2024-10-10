@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.maincontainer{
+    width: 250px;
+    height: 300px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.formcontainer{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+.field{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.email{
+    border: 1px solid blue;
+}
+.password{
+    width: 90%;
+    height: 25px;
+    border: none;
+    padding-left: 10px;
+}
+.password :focus{
+    border: 1px;
+    outline: none;
+}
+.submit{
+    width: 100%;
+    height: 35px;
+    background-color: red;
+    color: blue;
+}
+
+

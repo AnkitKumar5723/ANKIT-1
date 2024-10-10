@@ -1,0 +1,25 @@
+table  tr th{
+background-color: blue;
+height: 40px;
+color: white;
+}
+table tr,th,td{
+    border: 1px solid red;
+    
+}
+table tr{
+    height: 30px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table tr:hover{
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+}
+
+}
+
